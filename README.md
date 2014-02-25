@@ -1,7 +1,7 @@
 simpleCharCounter.js
 =================
 
-Jquery plugin, simulate the character counter like counter in twitter (old version). See examples and readme for more details.
+Jquery plugin, simulate the character counter like counter in twitter (old version). See [demo](http://simplecharcounter.porfirio.mx/ "demo") and readme for more details.
 
 # Usage #
 
@@ -9,7 +9,7 @@ Jquery plugin, simulate the character counter like counter in twitter (old versi
 
 # Defaults and Options #
 
-See demo for other basic uses.
+See [demo](http://simplecharcounter.porfirio.mx/ "demo") for other basic uses.
 
     $(".target").simpleCharCounter({
 			max: 140,
@@ -38,3 +38,9 @@ See demo for other basic uses.
 **legend:** change the count display text
 
 **strictText:** set to `true`, if you want lock input, when the limit chars is reached (the input / textarea keeps enabled).
+
+
+----------
+Developed by: [@_zetta](http://twitter.com/_zetta)
+
+Improved options by: [@elporfirio](http://twitter.com/elporfirio)
