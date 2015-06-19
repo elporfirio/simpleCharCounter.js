@@ -9,7 +9,7 @@ Jquery plugin, simulate the character counter like counter in twitter (old versi
 
 # Defaults and Options #
 
-See [demo](http://simplecharcounter.porfirio.mx/ "demo") for other basic uses.
+See [demo](http://elporfirio.github.io/simpleCharCounter.js/ "demo") for other basic uses.
 
     $(".target").simpleCharCounter({
 			max: 140,
